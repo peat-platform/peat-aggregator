@@ -6,6 +6,11 @@
     "name": "dconway",
     "email": "dconway@tssg.org"
   },
+  "main": "lib/main",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:OPENi-ict/openi_aggregator.git"
+  },
   "licenses": [
     {
       "type": "MIT",
