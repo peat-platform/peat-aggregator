@@ -27,6 +27,7 @@
     "openi-cloudlet-utils": "git+https://github.com/OPENi-ict/cloudlet-utils",
     "openi-logger": "git+https://github.com/OPENi-ict/openi-logger",
     "loglet": "git+https://github.com/OPENi-ict/loglet",
+    "squel" : "",
     "m2nodehandler": "git+https://github.com/OPENi-ict/m2nodehandler"
   },
   "keywords": []
